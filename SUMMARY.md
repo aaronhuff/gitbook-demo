@@ -4,8 +4,8 @@
 
 ## Getting started
 
-* [🙇♀ Features](getting-started/features.md)
-* [Feedback](getting-started/feedback.md)
+* [🙇♀ Features](getting-started/features/README.md)
+  * [Feedback](getting-started/features/feedback.md)
 
 ***
 
