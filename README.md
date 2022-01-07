@@ -3,7 +3,7 @@ description: To my demo of gitbook functionality
 coverY: 0
 ---
 
-# 👍 Welcome
+# Welcome
 
 Look at the beautiful cover at the top and below at this amazing embedded gist.
 

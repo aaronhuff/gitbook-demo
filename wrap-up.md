@@ -2,7 +2,7 @@
 description: It's amazing
 ---
 
-# 😎 Wrap Up
+# Wrap Up
 
 You can jump back to sections here
 
