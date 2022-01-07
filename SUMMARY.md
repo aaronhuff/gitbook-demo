@@ -1,3 +1,11 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [👍 Welcome](README.md)
+
+## Getting started
+
+* [🙇♀ Features](getting-started/features.md)
+
+***
+
+* [😎 Wrap Up](wrap-up.md)
